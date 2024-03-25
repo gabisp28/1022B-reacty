@@ -4,3 +4,8 @@
                 descricao="Professor do IFMS nas matérias de Desenvolvimento - Desenvolvimento Web"
                 githubLink='https://github.com/guilhermeterenciani'
             />
+<Estudante 
+                nome="Gabriela Silva Palma"
+                imagem= "https://github.com/gabisp28.png"
+                descricao= "Estudante do Instituto Federal do Mato Grosso do Sul, estou no 5º Semestre, cursando Técnico em Informática para Internet"
+                githubLink= "https://github.com/gabisp28"/>
